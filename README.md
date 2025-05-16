@@ -35,8 +35,8 @@ Then open `http://localhost:8501` in your browser.
 
 ## 📷 Demo Screenshot
 
-![demo](demo1.png)
-![demo](demo2.png)
+![demo](screenshots/demo1.png)
+![demo](screenshots/demo2.png)
 
 _Example: User asks about Bitcoin. The assistant responds with current price, market cap, and AI summary._
 
